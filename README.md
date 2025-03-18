@@ -2,7 +2,7 @@
 ## Name: AARON RAJESH R
 ## Reg no: 212223100001
 ## Aim:
-To study the execution of various Linux operating system commands.
+To study the execution of various Linux operating system commands. 
 
 ## Linux:
 Linux is an open-source operating system. The kernel is the heart of the Linux OS, facilitating communication between hardware and software. The main advantage of Linux is that programmers can use the Linux kernel to design their own custom OS.
