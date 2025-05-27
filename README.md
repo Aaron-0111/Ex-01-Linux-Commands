@@ -12,7 +12,7 @@ All basic and advanced tasks can be performed by executing commands on the Linux
 
 ## Commands:
 ### 1. ls Command
-The ls command displays a list of contents in a directory.
+The ls command displays a list of contents in a directory. 
 Syntax: ls
 ![image](https://github.com/user-attachments/assets/6f98b604-caaf-40d7-b684-b31beba592d3)
 
